@@ -1,0 +1,11 @@
+{
+    "posts": [
+      { "id": 1, "username": "mertoztat", "password": "Mert1234" },
+      { "id": 2, "username": "atalaysezen", "password": "atalay1234" }
+    ],
+    "comments": [
+        {"tweet":"react"},
+        {"tweet":"angular"}
+    ],
+    "profile": { "name": "typicode" }
+  }
